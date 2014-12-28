@@ -22,4 +22,5 @@
   </ol>
 
 <h1>Result ScreenShot</h1>
+<p>http://postimg.org/image/5crswxfrh/full/</p>
 <img src="http://postimg.org/image/5crswxfrh/full/" />
