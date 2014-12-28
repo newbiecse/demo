@@ -20,3 +20,6 @@
     <li>Go to http://127.0.0.1:8000/admin/</li>
     <li>Login above link with username: <b>vexere</b> and password: <b>123456</b></li>
   </ol>
+
+<h1>Result ScreenShot</h1>
+<img href="http://postimg.org/image/5crswxfrh/full/" />
